@@ -1,5 +1,5 @@
 # case-to-regex
-Created with CodeSandbox
+Convert variable name to regex for all casings.
 
 https://x4mc4.csb.app/
 
